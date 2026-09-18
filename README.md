@@ -52,8 +52,8 @@ Status: ✅ delivered · ⬜ not yet
 |---|--------|--------|
 | 1 | Posture | ✅ 2026-09-18 |
 | 2 | Breathing | ✅ 2026-09-18 |
-| 3 | Calm voice | ⬜ next |
-| 4 | Walking | ⬜ |
+| 3 | Calm voice | ✅ 2026-09-18 |
+| 4 | Walking | ⬜ next |
 
 ### Phase 2 — Connection
 | # | Lesson | Status |
@@ -96,9 +96,10 @@ Status: ✅ delivered · ⬜ not yet
 
 ## Current state
 
-- **Lesson 1 — Leader's Posture:** ✅ delivered 2026-09-18 (`lessons/lesson-01-posture.md`). Exercise: **AWAITING** the 4 answers.
-- **Lesson 2 — Breathing:** ✅ delivered 2026-09-18 (`lessons/lesson-02-breathing.md`). Exercise: **AWAITING** the 4 answers (may be combined with Lesson 1's).
-- **Next:** coach corrects submitted exercises → then **Lesson 3 — Calm and Controlled Voice**.
+- **Lesson 1 — Posture:** ✅ 2026-09-18. Exercise: **AWAITING**.
+- **Lesson 2 — Breathing:** ✅ 2026-09-18. Exercise: **AWAITING**.
+- **Lesson 3 — Calm and Controlled Voice:** ✅ 2026-09-18. Exercise: **AWAITING**.
+- **Next:** coach corrects submissions → then **Lesson 4 — Confident Walking** (Phase 1 finale).
 - **Chunk given:** "Take a beat" (2026-09-18).
 
 ---
