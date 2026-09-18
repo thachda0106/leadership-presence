@@ -51,8 +51,8 @@ Status: ✅ delivered · ⬜ not yet
 | # | Lesson | Status |
 |---|--------|--------|
 | 1 | Posture | ✅ 2026-09-18 |
-| 2 | Breathing | ⬜ next |
-| 3 | Calm voice | ⬜ |
+| 2 | Breathing | ✅ 2026-09-18 |
+| 3 | Calm voice | ⬜ next |
 | 4 | Walking | ⬜ |
 
 ### Phase 2 — Connection
@@ -96,8 +96,9 @@ Status: ✅ delivered · ⬜ not yet
 
 ## Current state
 
-- **Lesson 1 — Leader's Posture:** ✅ delivered 2026-09-18 (`lessons/lesson-01-posture.md`).
-- **Next:** Student's 4-answer camera exercise is **AWAITING submission** (90-second recording: "What does Umaps do, who uses it, and one technical decision I'm proud of"). Coach corrects → then **Lesson 2 — Breathing**.
+- **Lesson 1 — Leader's Posture:** ✅ delivered 2026-09-18 (`lessons/lesson-01-posture.md`). Exercise: **AWAITING** the 4 answers.
+- **Lesson 2 — Breathing:** ✅ delivered 2026-09-18 (`lessons/lesson-02-breathing.md`). Exercise: **AWAITING** the 4 answers (may be combined with Lesson 1's).
+- **Next:** coach corrects submitted exercises → then **Lesson 3 — Calm and Controlled Voice**.
 - **Chunk given:** "Take a beat" (2026-09-18).
 
 ---
