@@ -58,8 +58,8 @@ Status: ✅ delivered · ⬜ not yet
 ### Phase 2 — Connection
 | # | Lesson | Status |
 |---|--------|--------|
-| 5 | Eye contact | ⬜ next |
-| 6 | Smile | ⬜ |
+| 5 | Eye contact | ✅ 2026-09-18 |
+| 6 | Smile | ⬜ next |
 | 7 | Personal space | ⬜ |
 | 8 | Mirroring | ⬜ |
 
@@ -100,7 +100,8 @@ Status: ✅ delivered · ⬜ not yet
 - **Lesson 2 — Breathing:** ✅ 2026-09-18. Exercise: **AWAITING**.
 - **Lesson 3 — Calm and Controlled Voice:** ✅ 2026-09-18. Exercise: **AWAITING**.
 - **Lesson 4 — Confident Walking:** ✅ 2026-09-18. Exercise: **AWAITING**. 🎉 **Phase 1 Foundation COMPLETE**.
-- **Next:** coach corrects submissions → then **Phase 2 — Connection: Lesson 5 — Eye Contact**.
+- **Lesson 5 — Eye Contact:** ✅ 2026-09-18. Exercise: **AWAITING**. Phase 2 (Connection) started.
+- **Next:** coach corrects submissions → then **Lesson 6 — The Authentic Smile**.
 - **Chunk given:** "Take a beat" (2026-09-18).
 
 ---
