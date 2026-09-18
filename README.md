@@ -53,12 +53,12 @@ Status: ✅ delivered · ⬜ not yet
 | 1 | Posture | ✅ 2026-09-18 |
 | 2 | Breathing | ✅ 2026-09-18 |
 | 3 | Calm voice | ✅ 2026-09-18 |
-| 4 | Walking | ⬜ next |
+| 4 | Walking | ✅ 2026-09-18 |
 
 ### Phase 2 — Connection
 | # | Lesson | Status |
 |---|--------|--------|
-| 5 | Eye contact | ⬜ |
+| 5 | Eye contact | ⬜ next |
 | 6 | Smile | ⬜ |
 | 7 | Personal space | ⬜ |
 | 8 | Mirroring | ⬜ |
@@ -99,7 +99,8 @@ Status: ✅ delivered · ⬜ not yet
 - **Lesson 1 — Posture:** ✅ 2026-09-18. Exercise: **AWAITING**.
 - **Lesson 2 — Breathing:** ✅ 2026-09-18. Exercise: **AWAITING**.
 - **Lesson 3 — Calm and Controlled Voice:** ✅ 2026-09-18. Exercise: **AWAITING**.
-- **Next:** coach corrects submissions → then **Lesson 4 — Confident Walking** (Phase 1 finale).
+- **Lesson 4 — Confident Walking:** ✅ 2026-09-18. Exercise: **AWAITING**. 🎉 **Phase 1 Foundation COMPLETE**.
+- **Next:** coach corrects submissions → then **Phase 2 — Connection: Lesson 5 — Eye Contact**.
 - **Chunk given:** "Take a beat" (2026-09-18).
 
 ---
