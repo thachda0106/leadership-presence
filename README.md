@@ -61,7 +61,8 @@ Status: ✅ delivered · ⬜ not yet
 | 5 | Eye contact | ✅ 2026-09-18 |
 | 6 | Smile | ✅ 2026-09-19 |
 | 7 | Personal space | ✅ 2026-09-19 |
-| 8 | Mirroring | ⬜ next |
+| 8 | Mirroring | ✅ 2026-09-19 |
+| 9 | Hand gestures | ⬜ next |
 
 ### Phase 3 — Communication Control
 | # | Lesson | Status |
@@ -103,8 +104,9 @@ Status: ✅ delivered · ⬜ not yet
 - **Lesson 5 — Eye Contact:** ✅ 2026-09-18. Exercise: **AWAITING**. Phase 2 (Connection) started.
 - **Lesson 6 — The Authentic Smile:** ✅ 2026-09-19. Exercise: **AWAITING**. Smile as punctuation, not a default — worn as a mask it erodes credibility.
 - **Lesson 7 — Personal Space:** ✅ 2026-09-19. Exercise: **AWAITING**. Distance is a silent sentence — two-step default, eye-level not hovering, wider in JP contexts, camera framing.
-- **Next:** coach corrects submissions → then **Lesson 8 — Mirroring**.
-- **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19).
+- **Lesson 8 — Mirroring:** ✅ 2026-09-19. Exercise: **AWAITING**. 🎉 **Phase 2 (Connection) COMPLETE.** Mirror the state, not the moves — 2-second echo, never mirror agitation, be the anchor.
+- **Next:** coach corrects submissions → then **Lesson 9 — Hand Gestures** (Phase 3 — Communication Control starts).
+- **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19) · "I hear you." (2026-09-19).
 
 ---
 
