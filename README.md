@@ -62,15 +62,14 @@ Status: ✅ delivered · ⬜ not yet
 | 6 | Smile | ✅ 2026-09-19 |
 | 7 | Personal space | ✅ 2026-09-19 |
 | 8 | Mirroring | ✅ 2026-09-19 |
-| 9 | Hand gestures | ⬜ next |
 
 ### Phase 3 — Communication Control
 | # | Lesson | Status |
 |---|--------|--------|
-| 9 | Hand gestures | ⬜ |
-| 10 | Silence | ⬜ |
-| 11 | Facial expressions | ⬜ |
-| 12 | Listening presence | ⬜ |
+| 9 | Hand gestures | ✅ 2026-09-20 |
+| 10 | Silence | ✅ 2026-09-20 |
+| 11 | Facial expressions | ✅ 2026-09-20 |
+| 12 | Listening presence | ✅ 2026-09-20 |
 
 ### Phase 4 — Leadership Presence
 | # | Lesson | Status |
@@ -105,8 +104,12 @@ Status: ✅ delivered · ⬜ not yet
 - **Lesson 6 — The Authentic Smile:** ✅ 2026-09-19. Exercise: **AWAITING**. Smile as punctuation, not a default — worn as a mask it erodes credibility.
 - **Lesson 7 — Personal Space:** ✅ 2026-09-19. Exercise: **AWAITING**. Distance is a silent sentence — two-step default, eye-level not hovering, wider in JP contexts, camera framing.
 - **Lesson 8 — Mirroring:** ✅ 2026-09-19. Exercise: **AWAITING**. 🎉 **Phase 2 (Connection) COMPLETE.** Mirror the state, not the moves — 2-second echo, never mirror agitation, be the anchor.
-- **Next:** coach corrects submissions → then **Lesson 9 — Hand Gestures** (Phase 3 — Communication Control starts).
-- **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19) · "I hear you." (2026-09-19).
+- **Lesson 9 — Hand Gestures:** ✅ 2026-09-20. Exercise: **AWAITING**. Phase 3 (Communication Control) started. Hands are the pointer on your slide deck — illustrators guide, emblems (thumbs-up, index point) are quarantined.
+- **Lesson 10 — Silence:** ✅ 2026-09-20. Exercise: **AWAITING**. Silence is the white space of your speech — 2s before you answer, 2–3s after they finish, a beat after your key point.
+- **Lesson 11 — Facial Expressions:** ✅ 2026-09-20. Exercise: **AWAITING**. Your face is a replay of your words — congruent or untrusted; neutral is professional in JP, not cold.
+- **Lesson 12 — Listening Presence:** ✅ 2026-09-20. Exercise: **AWAITING**. 🎉 **Phase 3 (Communication Control) COMPLETE.** Catch the ball before throwing one — paraphrase, follow-up, window silence.
+- **Next:** coach corrects submissions → then **Lesson 13 — Entering a Meeting** (Phase 4 — Leadership Presence starts).
+- **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19) · "I hear you." (2026-09-19) · "Let me put it this way." (2026-09-20) · "Let me be careful with my answer." (2026-09-20) · "I'm glad we're on the same page." (2026-09-20) · "Tell me more about that." (2026-09-20).
 
 ---
 
