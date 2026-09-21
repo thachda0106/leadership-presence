@@ -74,19 +74,19 @@ Status: ✅ delivered · ⬜ not yet
 ### Phase 4 — Leadership Presence
 | # | Lesson | Status |
 |---|--------|--------|
-| 13 | Entering a meeting | ⬜ |
-| 14 | Speaking in meetings | ⬜ |
-| 15 | Disagreeing respectfully | ⬜ |
-| 16 | Giving feedback | ⬜ |
-| 17 | Handling criticism | ⬜ |
-| 18 | Making decisions | ⬜ |
-| 19 | Speaking under pressure | ⬜ |
-| 20 | Leading difficult conversations | ⬜ |
+| 13 | Entering a meeting | ✅ 2026-09-20 |
+| 14 | Speaking in meetings | ✅ 2026-09-20 |
+| 15 | Disagreeing respectfully | ✅ 2026-09-20 |
+| 16 | Giving feedback | ✅ 2026-09-20 |
+| 17 | Handling criticism | ✅ 2026-09-20 |
+| 18 | Making decisions | ✅ 2026-09-20 |
+| 19 | Speaking under pressure | ✅ 2026-09-20 |
+| 20 | Leading difficult conversations | ✅ 2026-09-20 |
 
 ### Phase 5 — Authenticity
 | # | Lesson | Status |
 |---|--------|--------|
-| 21 | Building genuine confidence | ⬜ |
+| 21 | Building genuine confidence | ⬜ next |
 | 22 | Reducing approval-seeking behavior | ⬜ |
 | 23 | Emotional control | ⬜ |
 | 24 | Comfortable with silence and uncertainty | ⬜ |
@@ -108,7 +108,15 @@ Status: ✅ delivered · ⬜ not yet
 - **Lesson 10 — Silence:** ✅ 2026-09-20. Exercise: **AWAITING**. Silence is the white space of your speech — 2s before you answer, 2–3s after they finish, a beat after your key point.
 - **Lesson 11 — Facial Expressions:** ✅ 2026-09-20. Exercise: **AWAITING**. Your face is a replay of your words — congruent or untrusted; neutral is professional in JP, not cold.
 - **Lesson 12 — Listening Presence:** ✅ 2026-09-20. Exercise: **AWAITING**. 🎉 **Phase 3 (Communication Control) COMPLETE.** Catch the ball before throwing one — paraphrase, follow-up, window silence.
-- **Next:** coach corrects submissions → then **Lesson 13 — Entering a Meeting** (Phase 4 — Leadership Presence starts).
+- **Lesson 13 — Entering a Meeting:** ✅ 2026-09-20. Exercise: **AWAITING**. The first 30 seconds set the tone — arrive, scan, greet, settle, breathe, THEN speak.
+- **Lesson 14 — Speaking in Meetings:** ✅ 2026-09-20. Exercise: **AWAITING**. P.R.E.A. — Point, Reason, Evidence, Ask. One idea per turn; speak within the first 10 minutes.
+- **Lesson 15 — Disagreeing Respectfully:** ✅ 2026-09-20. Exercise: **AWAITING**. Acknowledge → disagree on the idea → reason → alternative → leave it open. JP: same substance, soft shell.
+- **Lesson 16 — Giving Feedback:** ✅ 2026-09-20. Exercise: **AWAITING**. SBI — Situation, Behavior, Impact. Facts not labels; praise in public, correct in private (always in JP).
+- **Lesson 17 — Handling Criticism:** ✅ 2026-09-20. Exercise: **AWAITING**. Pause → listen → separate fact from tone → own what's true → one question. Criticism is data, not identity.
+- **Lesson 18 — Making Decisions:** ✅ 2026-09-20. Exercise: **AWAITING**. Indecision is a decision to drift — timebox, gather, decide, explain WHY, commit publicly. JP: nemawashi inside the timebox.
+- **Lesson 19 — Speaking Under Pressure:** ✅ 2026-09-20. Exercise: **AWAITING**. The 3-frame: what we know / don't know / what I'm doing. Hard thing first. 20% slower.
+- **Lesson 20 — Leading Difficult Conversations:** ✅ 2026-09-20. Exercise: **AWAITING**. 🎉 **Phase 4 (Leadership Presence) COMPLETE.** Prepare → open plainly → facts+impact → silence → listen → next step. JP: soft shell, face saved.
+- **Next:** coach corrects submissions → then **Phase 5 — Authenticity: Lesson 21 — Building Genuine Confidence**.
 - **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19) · "I hear you." (2026-09-19) · "Let me put it this way." (2026-09-20) · "Let me be careful with my answer." (2026-09-20) · "I'm glad we're on the same page." (2026-09-20) · "Tell me more about that." (2026-09-20).
 
 ---
