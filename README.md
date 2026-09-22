@@ -86,11 +86,11 @@ Status: ✅ delivered · ⬜ not yet
 ### Phase 5 — Authenticity
 | # | Lesson | Status |
 |---|--------|--------|
-| 21 | Building genuine confidence | ⬜ next |
-| 22 | Reducing approval-seeking behavior | ⬜ |
-| 23 | Emotional control | ⬜ |
-| 24 | Comfortable with silence and uncertainty | ⬜ |
-| 25 | Developing my own leadership style | ⬜ |
+| 21 | Building genuine confidence | ✅ 2026-09-22 |
+| 22 | Reducing approval-seeking behavior | ✅ 2026-09-22 |
+| 23 | Emotional control | ✅ 2026-09-22 |
+| 24 | Comfortable with silence and uncertainty | ✅ 2026-09-22 |
+| 25 | Developing my own leadership style | ✅ 2026-09-22 |
 
 ---
 
@@ -116,8 +116,13 @@ Status: ✅ delivered · ⬜ not yet
 - **Lesson 18 — Making Decisions:** ✅ 2026-09-20. Exercise: **AWAITING**. Indecision is a decision to drift — timebox, gather, decide, explain WHY, commit publicly. JP: nemawashi inside the timebox.
 - **Lesson 19 — Speaking Under Pressure:** ✅ 2026-09-20. Exercise: **AWAITING**. The 3-frame: what we know / don't know / what I'm doing. Hard thing first. 20% slower.
 - **Lesson 20 — Leading Difficult Conversations:** ✅ 2026-09-20. Exercise: **AWAITING**. 🎉 **Phase 4 (Leadership Presence) COMPLETE.** Prepare → open plainly → facts+impact → silence → listen → next step. JP: soft shell, face saved.
-- **Next:** coach corrects submissions → then **Phase 5 — Authenticity: Lesson 21 — Building Genuine Confidence**.
-- **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19) · "I hear you." (2026-09-19) · "Let me put it this way." (2026-09-20) · "Let me be careful with my answer." (2026-09-20) · "I'm glad we're on the same page." (2026-09-20) · "Tell me more about that." (2026-09-20).
+- **Lesson 21 — Building Genuine Confidence:** ✅ 2026-09-22. Exercise: **AWAITING**. Act → evidence → confidence; self-efficacy log, 70% rule, internal reference point.
+- **Lesson 22 — Reducing Approval-Seeking:** ✅ 2026-09-22. Exercise: **AWAITING**. Seek alignment, not approval; statements not questions; the JP shell stays, the need goes.
+- **Lesson 23 — Emotional Control:** ✅ 2026-09-22. Exercise: **AWAITING**. Regulate, don't suppress; the 90-second wave; physiological sigh; leader is the weather.
+- **Lesson 24 — Comfortable with Silence and Uncertainty:** ✅ 2026-09-22. Exercise: **AWAITING**. 3-second rule; plain "I don't know yet" + plan; process-certain, answer-honest.
+- **Lesson 25 — Developing My Own Leadership Style:** ✅ 2026-09-22. Exercise: **AWAITING**. 🎉 **PROGRAM COMPLETE — 25/25.** Strengths × values × 3-4 signature moves = one style statement; the 24-tool audit.
+- **Next:** coach corrects all Phase 5 submissions → full-program coaching pass (all 25). Program complete 🎉.
+- **Chunks given:** "Take a beat" (2026-09-18) · "That's fair." (2026-09-19) · "I'll give you some space to think about it." (2026-09-19) · "I hear you." (2026-09-19) · "Let me put it this way." (2026-09-20) · "Let me be careful with my answer." (2026-09-20) · "I'm glad we're on the same page." (2026-09-20) · "Tell me more about that." (2026-09-20) · "I'll own that." (2026-09-22).
 
 ---
 
